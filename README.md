@@ -25,7 +25,7 @@ Para rodar o programa é necessário executar esses comandos:
 
 ```bash
 # instalar bibliotecas
-pip install -r requierements.txt
+pip install -r requirements.txt
 
 # rodar o projeto
 streamlit run app_unimed.py
