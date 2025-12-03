@@ -10,11 +10,11 @@ Para exemplificação, abaixo temos uma imagem da tela inicial com alguns dos gr
 
 ## Como executar
 
-O projeto como um todo foi feito em python, 
+O projeto como um todo foi feito em python e precisa de algumas instalações para execução.
 
 ### Depêndencias
 
-É necesario ter instalado:
+É necessário ter instalado:
 
 - [Python](https://www.python.org/): linguagem de programação.
 - [pip](https://pypi.org/project/pip/): gerenciador de pacotes do python (geralmente vem com o Python).
